@@ -4,4 +4,4 @@ In this repository , I had created a beautiful responsive web template which is 
 Thank you!
 ## Live demo
 Click on link for live demo
-[Link](https://parimala-katasani.github.io/Travel-landingpage/)
+[Link](https://parimala-katasani.github.io/Travel-landingpage/Travel-landingpage/index.html/)
